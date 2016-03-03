@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016.03.03 07:48:26.487.cpp,C:\Users\student\Documents\Borland Studio Projects\Unit2.cpp=H:\PRG\VCL\cv19_grafika\2_kresleni\main.cpp</Transaction>
+    <Transaction>2016.03.03 07:48:26.487.h,C:\Users\student\Documents\Borland Studio Projects\Unit2.h=H:\PRG\VCL\cv19_grafika\2_kresleni\main.h</Transaction>
+    <Transaction>2016.03.03 07:48:26.487.dfm,C:\Users\student\Documents\Borland Studio Projects\Unit2.dfm=H:\PRG\VCL\cv19_grafika\2_kresleni\main.dfm</Transaction>
+    <Transaction>2016.03.03 07:48:30.537.bdsproj,C:\Users\student\Documents\Borland Studio Projects\Project1.bdsproj=H:\PRG\VCL\cv19_grafika\2_kresleni\kresli.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
